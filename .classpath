@@ -142,5 +142,6 @@
 	<classpathentry kind="lib" path="C:/Users/yakov/Downloads/drive-download-20220112T072219Z-001/mail/pop3.jar"/>
 	<classpathentry kind="lib" path="C:/Users/yakov/Downloads/drive-download-20220112T072219Z-001/mail/smtp.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
